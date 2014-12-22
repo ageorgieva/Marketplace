@@ -1,0 +1,37 @@
+{
+  "ProjectName": "drower22.11",
+  "ProjectGuid": "104f109b-626e-4187-84d2-6ddeed3873d8",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.drower2211",
+  "DisplayName": "drower22.11",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{377fbdb6-30ac-46a4-b68a-23c327d998d1}",
+  "WP8ProductID": "{58c637cb-b161-458e-a5a4-923944cc5844}",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
